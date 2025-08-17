@@ -134,6 +134,6 @@ This project provided valuable, hands-on experience in building a sophisticated 
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
 
 > 💡 *Some interactive outputs (e.g., plots, widgets) may not display correctly on GitHub. If so, please view this notebook via [nbviewer.org](https://nbviewer.org) for full rendering.*
